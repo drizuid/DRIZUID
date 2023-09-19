@@ -3,7 +3,8 @@
 ### I’m currently working on:  
   * Upgrading my primary PC, it was built in 2016 with only a couple GPU and a single PSU upgrades since
   * prepping to move from 10Gbps to 40Gbps in my home network (why not?)
-    * Currently I have 20Gbps port channels from access switches to the collapsed core switch  
+  * Current network overview
+    * 20Gbps port channels from access switches to the collapsed core switch  
     * 10Gbps to my desktop  
     * 20Gbps port channels to the servers  
     * 2.5Gbps from the core switch to the WAN edge
