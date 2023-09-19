@@ -1,11 +1,22 @@
 ## Hey, I'm driz. There probably is not much of interest here!
 
 ### I’m currently working on:  
-Upgrading my primary PC and prepping to move from 10Gbps to 40Gbps in my home (why not?)
+  * Upgrading my primary PC, it was built in 2016 with only a couple GPU and a single PSU upgrades since
+  * prepping to move from 10Gbps to 40Gbps in my home network (why not?)
+    * Currently I have 20Gbps port channels from access switches to the collapsed core switch  
+    * 10Gbps to my desktop  
+    * 20Gbps port channels to the servers  
+    * 2.5Gbps from the core switch to the WAN edge
 ### I’m currently learning:  
-Ribbon Communications' suite of applications and hoping to work time for learning K8s into my schedule
+  * Ribbon Communications' suite of applications  
+  * Hoping to work time for learning K8s into my schedule
 ### Ask me about:  
-VoIP, networking, home automation, docker, gaming, linux, and more...
+  * VoIP
+  * networking
+  * home automation
+  * docker
+  * linux
+  * more...
 ### How to reach me:   
 Probably easiest on the Linuxserver.io Discord  
 [![Discord](https://img.shields.io/discord/354974912613449730.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/YWrKVTn "realtime support / chat with the community and the team.")
