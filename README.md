@@ -29,7 +29,7 @@ Probably easiest on the Linuxserver.io Discord
     * I swapped mostly to debian in 2014 out of sheer laziness
 3. I got in to VoIP in 2002 to split a single POTS phone line between my college roommate and myself
     * I made the mistake of using TTS using a highly sexualized voice for our recordings... it resulted in a LOT of calls and voicemails that were very odd
-    * I later met Mark Spencer at Phreaknic 7 in Nashville, TN and have used Asterisk ever since
+    * I later met Mark Spencer, creator of Asterisk, at Phreaknic 7 in Nashville, TN and have used Asterisk ever since
       * I provide service to my home
       * my parents home in another state
       * a couple friends in Canada
