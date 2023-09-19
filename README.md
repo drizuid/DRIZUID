@@ -1,14 +1,14 @@
-### Hey, I'm driz.
+## Hey, I'm driz. There probably is not much of interest here!
 
-#### I’m currently working on:  
+### I’m currently working on:  
 Upgrading my primary PC and prepping to move from 10Gbps to 40Gbps in my home (why not?)
-#### I’m currently learning:  
+### I’m currently learning:  
 Ribbon Communications' suite of applications and hoping to work time for learning K8s into my schedule
-#### Ask me about:  
-VoIP, networking, home automation, docker
-#### How to reach me:   
+### Ask me about:  
+VoIP, networking, home automation, docker, gaming, linux, and more...
+### How to reach me:   
 Probably easiest on the linuxserver.io discord
-#### Fun facts:  
+### Fun facts:  
 1. I was a paratrooper in the 82nd Airborne Division and have travelled the world  
 2. I have been using Linux since 1996 when I started with Slackware 3.1  
   * I changed to LFS in 2002 to get the most out of my gaming pc  
