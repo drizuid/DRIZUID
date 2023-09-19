@@ -10,7 +10,7 @@ VoIP, networking, home automation, docker, gaming, linux, and more...
 Probably easiest on the Linuxserver.io Discord  
 [![Discord](https://img.shields.io/discord/354974912613449730.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/YWrKVTn "realtime support / chat with the community and the team.")
 ### Fun facts:  
-1. I was a paratrooper in the 82nd Airborne Division and have travelled the world  
+1. I was a paratrooper in the 82nd Airborne Division and have traveled the world  
 2. I have been using Linux since 1996
     * I started with Slackware 3.1  
     * I changed to LFS in 2002 to get the most out of my gaming pc  
