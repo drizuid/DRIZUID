@@ -11,6 +11,7 @@ Probably easiest on the linuxserver.io discord
 ### Fun facts:  
 1. I was a paratrooper in the 82nd Airborne Division and have travelled the world  
 2. I have been using Linux since 1996
+
   * I started with Slackware 3.1  
   * I changed to LFS in 2002 to get the most out of my gaming pc  
   * I swapped to CentOS for a while due to work reasons  
