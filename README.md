@@ -1,4 +1,4 @@
-## Hey, I'm driz. I'm a teammember of Linuxserver.io and I love technology.
+## Hey, I'm driz. I'm a teammember of LinuxServer.io and I love technology.
 
 ### I’m currently working on:  
   * Migrating from DNSMASQ for DHCP/DNS to redundant kea-dhcp nodes
