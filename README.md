@@ -1,7 +1,7 @@
-## Hey, I'm driz. There probably is not much of interest here!
+## Hey, I'm driz. I'm a teammember of Linuxserver.io and I love technology.
 
 ### I’m currently working on:  
-  * Upgrading my primary PC, it was built in 2016 with only a couple GPU and a single PSU upgrades since
+  * Migrating from DNSMASQ for DHCP/DNS to redundant kea-dhcp nodes
   * prepping to move from 10Gbps to 40Gbps in my home network (why not?)
   * Current network overview
     * 20Gbps port channels from access switches to the collapsed core switch  
