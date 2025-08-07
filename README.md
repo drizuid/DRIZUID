@@ -12,8 +12,9 @@
   * I'm due to renew my Cisco certifications in May, but there is a revamp in February, so I'm taking the easy route and doing it before February!
 ### I’m currently learning:  
   * Ribbon Communications' suite of applications  
-  * Oracle SBC
-  * Cisco ASAv
+  * Oracle SBC (for work)
+  * Cisco ASAv (for work)
+  * Microsoft SQL Server clustering (for work)
   * Juniper (for work) using the Cisco path to JNCIP
 ### Ask me about:  
   * VoIP
