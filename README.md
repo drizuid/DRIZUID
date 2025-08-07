@@ -2,17 +2,19 @@
 
 ### I’m currently working on:  
   * Migrating from DNSMASQ for DHCP/DNS to redundant kea-dhcp nodes (on hold because i lost interest)
-  * prepping to move from 10Gbps to 40Gbps in my home network (why not?)
+  * prepping to move from 10Gbps to 40Gbps in my home network (why not at these low prices?)
   * Current network overview
     * 20Gbps port channels from access switches to the collapsed core switch  
     * 10Gbps to my desktop  
     * 20Gbps port channels to the servers  
     * 10Gbps from the core switch to the WAN edge
+  * I just passed the Kubernetes and Cloud Native Associate (KCNA) exam and will likely work on CKA and CKAD next!
+  * I'm due to renew my Cisco certifications in May, but there is a revamp in February, so I'm taking the easy route and doing it before February!
 ### I’m currently learning:  
   * Ribbon Communications' suite of applications  
   * Oracle SBC
   * Cisco ASAv
-  * Kubernetes in preparation for the KCNA exam at the end of 2025
+  * Juniper (for work) using the Cisco path to JNCIP
 ### Ask me about:  
   * VoIP
   * networking
@@ -25,7 +27,7 @@ Probably easiest on the Linuxserver.io Discord
 [![Discord](https://img.shields.io/discord/354974912613449730.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/YWrKVTn "realtime support / chat with the community and the team.")
 ### Fun facts:  
 1. I was a paratrooper in the 82nd Airborne Division and have had multiple combat deployments
-2. I've lived in various places across 3 continents (so far) and vacationed in a 4th continent. 
+2. I've lived in various places across 3 continents (so far) and vacationed for a week on a 4th continent. 
 3. I have been using Linux since 1996
     * I started with Slackware 3.1  
     * I changed to LFS in 2002 to get the most out of my gaming pc  
